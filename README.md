@@ -38,4 +38,8 @@ You will want to update the `repo` node with your github repo information. This 
 
 At this point you should have a fully functional Gridsome Starter up and running. To start using NetlifyCMS to manage your Content, simply browse to <your-hostname>/admin.
 
-Thanks for using this Starter Kit. I'm always happy to receive constructive comments!
+> Thanks for using this Starter Kit. I'm always happy to receive constructive comments!
+> -- <cite>esparkman</cite>
+
+## Credits
+[@esparkman's starter pack](https://github.com/esparkman/gridsome-starter-netlify-netlifycms-tailwindcss).
