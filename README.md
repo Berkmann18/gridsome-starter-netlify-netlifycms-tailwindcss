@@ -1,4 +1,5 @@
 # Netlify + NetlifyCMS + TailwindCSS starter for Gridsome
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f794345c-ef83-4e58-9312-f12ddea56a15/deploy-status)](https://app.netlify.com/sites/affectionate-tereshkova-a9c35d/deploys)
 
 ### 1. Install Gridsome CLI tool if you don't have
 
@@ -38,8 +39,4 @@ You will want to update the `repo` node with your github repo information. This 
 
 At this point you should have a fully functional Gridsome Starter up and running. To start using NetlifyCMS to manage your Content, simply browse to <your-hostname>/admin.
 
-> Thanks for using this Starter Kit. I'm always happy to receive constructive comments!
-> -- <cite>esparkman</cite>
-
-## Credits
-[@esparkman's starter pack](https://github.com/esparkman/gridsome-starter-netlify-netlifycms-tailwindcss).
+Thanks for using this Starter Kit. I'm always happy to receive constructive comments!
