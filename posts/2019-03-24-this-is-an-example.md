@@ -40,7 +40,7 @@ Here is an example on how to query posts from the GraphQL layer in a page:
     allWordPressPost (limit: 5) {
       edges {
         node {
-          _id
+          id
           title
         }
       }

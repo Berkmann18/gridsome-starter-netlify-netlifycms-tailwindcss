@@ -37,7 +37,7 @@
       }
       edges {
         node {
-          _id
+          id
           date (format: "MMM Do YYYY")
           title
           path
